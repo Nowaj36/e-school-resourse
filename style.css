@@ -1,0 +1,61 @@
+.e-school{
+    background-color: #F0FFF0;
+    margin-bottom: 50px;
+}
+.nav-item{
+    font-size: 15px;
+}
+.nav-bar{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.nav-item a{
+    color: black;
+}
+.sign-in-btn{
+    width: 80px;
+    height: 35px;
+    color: white;
+    background-color: #21B573; 
+    border: none;
+    border-radius: 33px;
+}
+.sign-in-btn:hover{
+    background-color: green;
+    transition: 0.5s;
+}
+.started-btn{
+    width: 130px;
+    height: 35px;
+    font-size: 18px;
+    color: white;
+    background-color: #21B573; 
+    border: none;
+    border-radius: 33px; 
+}
+.left-padding{
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.row img{
+    padding-bottom: 20px;
+}
+.middle-section{
+    margin-bottom: 50px;
+}
+.img-sizing{
+    width: 100px;
+}
+ .border-section{
+    width: 250px;
+    height: 250px;
+    background-color: #F8FFFB;
+    text-align: center;
+    padding-top: 45px;
+ }
+ .border-section-2{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    padding-top: 45px;
+ }
