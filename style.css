@@ -2,23 +2,17 @@
     background-color: #F0FFF0;
     margin-bottom: 50px;
 }
-.nav-item{
-    font-size: 15px;
-}
-.nav-bar{
-    padding-top: 10px;
-    padding-bottom: 50px;
-}
-.nav-item a{
-    color: black;
+.nav-link{
+   font-size: 18px;
 }
 .sign-in-btn{
-    width: 80px;
+    width: 90px;
     height: 35px;
     color: white;
     background-color: #21B573; 
     border: none;
     border-radius: 33px;
+    margin: 4px 0px 0px 10px;
 }
 .sign-in-btn:hover{
     background-color: green;
